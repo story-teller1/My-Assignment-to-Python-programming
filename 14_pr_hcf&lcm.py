@@ -30,6 +30,6 @@ try:
     print (f'\nThe Lowest Common Multiple of {n1} and {n2} is {int(n1*n2/c)}.\n')
     
     
-  except:
+except:
     #handling the program from invalid inputs
     print ("\nPlease enter valid numeric input")
