@@ -12,9 +12,9 @@ try:
   average=(n1+n2+n3)/3
 
 #printing the results
-  print(f"The sum of the numbers {n1}, {n2} and {n3} is : {sum}")
-  print(f"The average of the numbers {n1}, {n2} and {n3} is : {average}")
+  print(f"\nThe sum of the numbers {n1}, {n2} and {n3} is : {sum}")
+  print(f"\nThe average of the numbers {n1}, {n2} and {n3} is : {average}\n")
 
 except:
    #handling the program from invalid inputs by the user
-    print("Invalid input!\nPlease enter a numeric value.")
+    print("\nInvalid input!\nPlease enter a numeric value.\n")
