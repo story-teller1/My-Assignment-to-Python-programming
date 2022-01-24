@@ -1,4 +1,7 @@
+#inputs a number from the user
 n=eval(input("\nEnter any number : "))
+
+#finding the absolute value of the number
 if n>=0:
     print(f"\nThe absolute value of the given number {n} is : {n}\n")
 
