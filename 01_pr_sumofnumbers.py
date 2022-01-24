@@ -9,5 +9,5 @@ try:
 #printing the result
   print (f"The sum of {a} and {b} is {c}.")
 except:
-  #handling the program from invalid inputs from the user
+  #handles the program from invalid inputs from the user
   print ("Invalid input!\nPlease enter a numeric value.")
